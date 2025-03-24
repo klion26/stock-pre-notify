@@ -1,7 +1,7 @@
 # What is this
-This is a repo which contains the logic used to pre notify the stock price.
+This repo contains the logic which *try* to use to history data to pre notify the revenue.
 
-**Important**: This notify message is not for final decision, please do not use to make any trade directly.
+**Important**: The notify message is not for final decision, please do not make any trade based on it directly.
 
 # How to use it
 This will run every day, to discovery if there is any company has a low price
